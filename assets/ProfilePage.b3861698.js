@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.53594bbd.js";import{_ as a,d as t,S as r,U as o,V as s,Y as n}from"./index.c29da404.js";const c=t({name:"ProfilePage",data(){return{selected:null}}});function f(d,l,p,_,i,m){return r(),o(e,{class:"row"},{default:s(()=>[n(" \u041F\u0440\u043E\u0444\u0438\u043B\u044C ")]),_:1})}var P=a(c,[["render",f]]);export{P as default};
