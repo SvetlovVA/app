@@ -1,1 +1,0 @@
-import{Q as e}from"./QPage.ac72a775.js";import{_ as t,d as a,S as s,U as r,V as o,Y as n}from"./index.ace64889.js";const c=a({name:"SettingsPage",data(){return{selected:null}}});function d(p,_,f,i,l,m){return s(),r(e,{class:"row"},{default:o(()=>[n(" \u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438 ")]),_:1})}var x=t(c,[["render",d]]);export{x as default};
